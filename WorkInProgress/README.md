@@ -36,7 +36,9 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Entendendo o Desafio](https://web.dio.me/lab/desafio-de-projeto-criando-um-sistema-bancario/learning/fa812356-0da6-4a85-9ffb-8b255748a288)[Hands On - Resolução Do Desafio](https://web.dio.me/lab/desafio-de-projeto-criando-um-sistema-bancario/learning/ab91c6ff-e147-4b4c-a3ca-2ffbf5d6fe1a)[Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-criando-um-sistema-bancario/learning/e71686b9-439b-44c1-83c1-f45da47dc634)
+- [Entendendo o Desafio](https://web.dio.me/lab/desafio-de-projeto-criando-um-sistema-bancario/learning/fa812356-0da6-4a85-9ffb-8b255748a288)
+- [Hands On - Resolução Do Desafio](https://web.dio.me/lab/desafio-de-projeto-criando-um-sistema-bancario/learning/ab91c6ff-e147-4b4c-a3ca-2ffbf5d6fe1a)
+- [Materiais de apoio](https://web.dio.me/lab/desafio-de-projeto-criando-um-sistema-bancario/learning/e71686b9-439b-44c1-83c1-f45da47dc634)
 
 
 
